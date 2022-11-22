@@ -6,7 +6,8 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+*.csv*
+*.log*
 의사록/
 
 # Icon must end with two \r
