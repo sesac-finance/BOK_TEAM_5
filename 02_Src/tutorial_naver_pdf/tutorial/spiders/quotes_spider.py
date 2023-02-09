@@ -6,7 +6,7 @@ import requests
 
 
 class QuotesSpider(scrapy.Spider):
-    name = "hoon2"
+    name = "naver_pdf_crawler"
 
     def start_requests(self):
         urls = []
